@@ -1,5 +1,6 @@
 output
 .DS_Store
+.bundle
 
 # build artifacts
 Gemfile.lock
